@@ -1,0 +1,65 @@
+.footer {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;	
+	padding: 10px;
+}
+
+.list {
+	margin-left: 20px;
+	padding: 0px !important;
+}
+
+.list h4 {
+	padding: 15px;
+}
+
+.list .tab.active {
+	background: #3f51b5;
+}
+
+.list .tab.active .title {
+	color: #fff;
+}
+
+.content {
+	margin-right: 20px;
+}
+
+.list .tab {
+	list-style: none;
+	display: block;
+	width: 100%;
+	margin: 0px;
+	padding: 15px;
+	border-bottom: 1px solid lightgray;
+	padding: 15px;
+}
+
+.list .tab .title {
+	font-size: 18px;
+}
+
+.list .tab .links {
+	margin-top: 5px;
+	padding-top: 5px;
+	font-size: 11px;
+	width: 80%;
+}
+
+.stylenone {
+	list-style: none;
+	display: inline;
+}
+
+.content .info {
+	font-size: 11px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid lightgray;
+	color: gray;
+}
+
+.content .demo {
+	overflow: hidden;
+}

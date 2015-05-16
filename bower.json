@@ -1,0 +1,26 @@
+{
+  "name": "threejs-examples",
+  "version": "0.0.1",
+  "authors": [
+    "Suroor Wijdan <suroorwijdan@gmail.com>"
+  ],
+  "description": "A set of examples/tutorials for getting familiar with three.js",
+  "main": "server.js",
+  "keywords": [
+    "threejs"
+  ],
+  "license": "MIT",
+  "homepage": "threejs.nodeware.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.2.2",
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.4"
+  }
+}
